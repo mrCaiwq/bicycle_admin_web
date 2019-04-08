@@ -1,0 +1,21 @@
+.menuBox {
+  width: 14%;
+  height: 100%;
+  background: #104E8B;
+}
+
+.menuItem {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  font-weight: 600;
+  color: white;
+}
+
+.menuItem:hover {
+  background: #3A5FCD;
+  cursor: pointer;
+}

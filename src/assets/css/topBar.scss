@@ -1,0 +1,34 @@
+.topBarBox {
+  width: 100%;
+  height: 6%;
+  background: #104E8B;
+  display: flex;
+  align-items: center;
+  margin: 0px;
+  border-bottom: 1px solid #ccc;
+}
+
+.topBarBox p {
+  width: 94%;
+  color: white;
+  font-weight: 600;
+  font-size: 28px;
+  margin: 0px;
+  padding: 0px 1%;
+  letter-spacing: 4px;
+}
+
+.loginOut {
+  width: 6%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.loginOut:hover {
+  cursor: pointer;
+}
